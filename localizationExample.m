@@ -1,6 +1,6 @@
 %% Load data
 % MODIFY THIS PATH
-datasetPath = "path/to/the/dataset/root/Sin/Dataset/mask1_instance1.mat";
+datasetPath = "path/to/the/dataset/root/Sine/Dataset/mask1_instance1.mat";
 dataset = load(datasetPath);
 
 
