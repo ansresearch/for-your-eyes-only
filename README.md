@@ -18,7 +18,7 @@ Giovanni Angelo Alghisi, Francesco Gringoli, Marco Cominelli, Shabbir Raza, Rena
 
 You can download the dataset from Zenodo using the link below:
 
-[Download the dataset from here]([https://doi.org/xxxxxx](https://doi.org/10.5281/zenodo.15304711))
+[Download the dataset from here](https://doi.org/10.5281/zenodo.15304711)
 
 The dataset contains:
 - **Raw CSI samples** as collected during experiments,
