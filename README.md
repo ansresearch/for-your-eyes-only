@@ -6,7 +6,7 @@ This repository contains the MATLAB code to reproduce the neural-network localiz
 Giovanni Angelo Alghisi, Francesco Gringoli, Marco Cominelli, Shabbir Raza, Renato Lo Cigno  
 (*to appear in IEEE MedComNet 2025*)
 
-[Download the paper from here](https://doi.org/xxxxxx)  <!-- Replace with actual link after publication -->
+<!-- [Download the paper from here](https://doi.org/xxxxxx) -->
 
 ## Requirements
 
@@ -32,7 +32,7 @@ We've provided a one-shot MATLAB example, `localizationExample.m`, that loads a 
 
 ## Citation
 
-If you use this dataset in your research, please cite our paper:
+If you use our dataset or code in your research, please cite our paper:
 
 ```bibtex
 @INPROCEEDINGS{alghisi2025foryoureyesonly,
