@@ -6,7 +6,7 @@ This repository contains the MATLAB code to reproduce the neural-network localiz
 Giovanni Angelo Alghisi, Francesco Gringoli, Marco Cominelli, Shabbir Raza, Renato Lo Cigno  
 (*to appear in IEEE MedComNet 2025*)
 
-<!-- [Download the paper from here](https://doi.org/xxxxxx) -->
+[Download the paper from here](https://doi.org/10.1109/MedComNet65822.2025.11103523)
 
 ## Requirements
 
